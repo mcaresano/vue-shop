@@ -9,6 +9,16 @@ Pasos para dev
 
 ------------------------------
 
+Varios:
+https://tailwindcomponents.com/component/sopping-cart
+https://tanstack.com/
+https://www.svgrepo.com/
+
+Repositorio de backend
+https://github.com/Klerith/nest-teslo-shop/tree/complete-backend
+Ver de tener instalado docker para correrlo.
+
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
