@@ -10,9 +10,14 @@ Pasos para dev
 ------------------------------
 
 Varios:
-https://tailwindcomponents.com/component/sopping-cart
-https://tanstack.com/
-https://www.svgrepo.com/
+Componente principal
+- https://tailwindcomponents.com/component/sopping-cart
+
+Para el manejo de rutas, carga de páginas
+- https://tanstack.com/
+
+imagenes SVG
+- https://www.svgrepo.com/
 
 Repositorio de backend
 https://github.com/Klerith/nest-teslo-shop/tree/complete-backend
